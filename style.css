@@ -1,0 +1,29 @@
+body{
+    background-color: beige;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+}
+
+li{
+    margin-left: 25px;
+}
+
+table, th, td{
+    border: 1px solid black;
+    
+}
+.tab{
+    margin-top: 25px;
+}
+
+.contact{
+    margin-top: 25px;
+    margin-bottom: 20px;
+    font-size: 60px;
+    font-weight: bold;
+}
+
